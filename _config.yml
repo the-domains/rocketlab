@@ -1,0 +1,14 @@
+layout_spectrum: 0.7829909175634384
+typography_spectrum: 0.35359381954185665
+color:
+  brandStrength: 0.4777193965855986
+  lightness: 0.15285586682148278
+  saturation: 0.968067831126973
+  rhythmicContrast: 0.2243241814430803
+  brandColors:
+    - '#FF5335'
+    - '#B39C85'
+    - '#306E73'
+    - '#3B424D'
+    - '#1D181F'
+name: rocketlab
