@@ -1,4 +1,3 @@
-layout_spectrum: 0.7829909175634384
 typography_spectrum: 0.35359381954185665
 color:
   brandStrength: 0.4777193965855986
@@ -11,4 +10,6 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.7829909175634384
 name: rocketlab
+title: welcome to rocketlab
